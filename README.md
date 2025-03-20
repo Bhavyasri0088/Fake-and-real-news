@@ -100,5 +100,6 @@ Libraries: Scikit-Learn, NLTK
 
 💡 Author:
 Goddati Bhavyasri
-📧 Contact: Your Email or GitHub
+📧 Contact:goddatibhavya@gmail.com
+
 📅 Date: 8 February 2025
